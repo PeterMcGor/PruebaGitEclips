@@ -8,6 +8,8 @@ public class HelloWorld {
 		//Changing
 		System.out.println("Hola Mundo");
 		//rama2
+		for (int i = 10; i >= 0; i--)
+			System.out.println(i+" ");
 
 	}
 
