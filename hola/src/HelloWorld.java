@@ -11,7 +11,7 @@ public class HelloWorld {
 		for (int i = 10; i >= 0; i--)
 			System.out.println(i+" ");
 		
-		Mostrar.show("Final");
+		Mostrar.show("Final " + Mostrar.redondear(2.47f));
 
 	
 	}
