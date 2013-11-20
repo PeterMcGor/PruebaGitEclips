@@ -10,10 +10,9 @@ public class HelloWorld {
 		//rama2
 		for (int i = 10; i >= 0; i--)
 			System.out.println(i+" ");
-
-	}
-		Mostrar.show("Final");
-	
 		
+		Mostrar.show("Final");
 
+	
+	}
 }
